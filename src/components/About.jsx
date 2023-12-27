@@ -17,8 +17,8 @@ export default function About() {
             I&apos;ve always been passionate about deconstructing and
             reassembling the world around me. With more than 15 years of
             experience in teaching, I specialized in face-to-face and distance
-            education as a verbal teacher in MBA TUTOR, accompanying different
-            leaders of large companies and the public sector.
+            education as a GMAT verbal teacher at MBA TUTOR, accompanying
+            different leaders of large companies and the public sector.
           </p>
 
           <p>
