@@ -90,8 +90,8 @@ export default function Contact() {
         <input
           type="text"
           name="to_name"
-          placeholder="angelrod"
-          value="angelrod"
+          placeholder="borkoloco"
+          value="borkoloco"
           disabled
           hidden
         />
