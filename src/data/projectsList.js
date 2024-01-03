@@ -8,7 +8,15 @@ const projects = [
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1703647150/Captura_de_pantalla_2023-12-18_a_la_s_13.49.04_moeubt.png",
     live: "https://foodexpress-alpha.vercel.app",
     github: "https://github.com/borkoloco/FoodExpress-Front",
-    builtWith: ["SiJavascript", "FaReact", "SiBootstrap", "SiDotenv"],
+    builtWith: [
+      "SiJavascript",
+      "SiVite",
+      "SiBootstrap",
+      "SiSequelize",
+      "SiMercadopago",
+      "SiFirebase",
+      "SiDotenv",
+    ],
   },
   {
     key: 2,
@@ -19,7 +27,7 @@ const projects = [
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1703646904/Captura_de_pantalla_2023-12-18_a_la_s_13.46.56_upu43t.png",
     live: "https://pokemon-client-5pda.onrender.com",
     github: "https://github.com/borkoloco/PI-Pokemon-main",
-    builtWith: ["SiJavascript", "FaReact", "SiJest", "SiDotenv"],
+    builtWith: ["SiJavascript", "FaReact", "SiJest", "SiExpress", "SiDotenv"],
   },
   {
     key: 3,
@@ -30,7 +38,24 @@ const projects = [
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1703647028/Captura_de_pantalla_2023-12-18_a_la_s_13.44.41_dgoon1.png",
     live: "https://integrador2-zo58.onrender.com",
     github: "https://github.com/borkoloco/Integrador",
-    builtWith: ["SiJavascript", "FaReact", "SiJest", "SiDotenv"],
+    builtWith: ["SiJavascript", "FaReact", "SiJest", "SiExpress", "SiDotenv"],
+  },
+  {
+    key: 4,
+    title: "Jobify App",
+    description:
+      "Jobs Management App created with Vite, Express, MongoDB, and Styled Components.",
+    image:
+      "https://res.cloudinary.com/ddx1ikpma/image/upload/v1704250578/Captura_de_pantalla_2024-01-02_a_la_s_23.44.59_gibiki.png",
+    live: "https://jobify-top6.onrender.com/",
+    github: "https://github.com/borkoloco/jobify",
+    builtWith: [
+      "SiJavascript",
+      "SiVite",
+      "SiMongodb",
+      "SiExpress",
+      "SiStyledcomponents",
+    ],
   },
 ];
 

@@ -12,6 +12,14 @@ import {
   SiPython,
   SiDjango,
   SiHere,
+  SiMercadopago,
+  SiVite,
+  SiStyledcomponents,
+  SiExpress,
+  SiMongodb,
+  SiSlack,
+  SiFirebase,
+  SiSequelize,
 } from "react-icons/si";
 import { BsGithub } from "react-icons/bs";
 import { CgWebsite } from "react-icons/cg";
@@ -37,6 +45,14 @@ const iconMap = {
   SiPython: <SiPython />,
   SiDjango: <SiDjango />,
   SiHere: <SiHere />,
+  SiMercadopago: <SiMercadopago />,
+  SiVite: <SiVite />,
+  SiStyledcomponents: <SiStyledcomponents />,
+  SiExpress: <SiExpress />,
+  SiMongodb: <SiMongodb />,
+  SiSlack: <SiSlack />,
+  SiFirebase: <SiFirebase />,
+  SiSequelize: <SiSequelize />,
 };
 export default function ProjectCard({
   title,

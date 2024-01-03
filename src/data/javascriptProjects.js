@@ -23,6 +23,14 @@ const jsProjects = [
     image:
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1703647028/Captura_de_pantalla_2023-12-18_a_la_s_13.44.41_dgoon1.png",
   },
+  {
+    key: 4,
+    title: "Jobify App",
+    description:
+      "Jobs Management App created with Vite, Express, MongoDB, and Styled Components.",
+    image:
+      "https://res.cloudinary.com/ddx1ikpma/image/upload/v1704250578/Captura_de_pantalla_2024-01-02_a_la_s_23.44.59_gibiki.png",
+  },
 ];
 
 export default jsProjects;
