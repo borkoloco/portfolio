@@ -7,7 +7,7 @@ const projects = [
     image:
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1703647150/Captura_de_pantalla_2023-12-18_a_la_s_13.49.04_moeubt.png",
     // live: "https://foodexpress-alpha.vercel.app",
-    live: "https://res.cloudinary.com/ddx1ikpma/video/upload/v1708014650/FoodExpress_app_web_nflblm.mov",
+    live: "https://streamable.com/x2ud50",
     github: "https://github.com/borkoloco/FoodExpress-Front",
     builtWith: [
       "SiJavascript",
@@ -27,7 +27,7 @@ const projects = [
     image:
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1703646904/Captura_de_pantalla_2023-12-18_a_la_s_13.46.56_upu43t.png",
     // live: "https://pokemon-client-5pda.onrender.com",
-    live: "https://res.cloudinary.com/ddx1ikpma/video/upload/v1708014678/poke_1_zb46zp.mp4",
+    live: "https://streamable.com/g7o82l",
     github: "https://github.com/borkoloco/PI-Pokemon-main",
     builtWith: ["SiJavascript", "FaReact", "SiJest", "SiExpress", "SiDotenv"],
   },
@@ -39,7 +39,7 @@ const projects = [
     image:
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1703647028/Captura_de_pantalla_2023-12-18_a_la_s_13.44.41_dgoon1.png",
     // live: "https://integrador2-zo58.onrender.com",
-    live: "https://res.cloudinary.com/ddx1ikpma/video/upload/v1708014930/rym2b_qkxmo5.mov",
+    live: "https://streamable.com/kew48k",
     github: "https://github.com/borkoloco/Integrador",
     builtWith: ["SiJavascript", "FaReact", "SiJest", "SiExpress", "SiDotenv"],
   },
@@ -51,7 +51,7 @@ const projects = [
     image:
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1704250578/Captura_de_pantalla_2024-01-02_a_la_s_23.44.59_gibiki.png",
     // live: "https://jobify-top6.onrender.com/",
-    live: "https://res.cloudinary.com/ddx1ikpma/video/upload/v1708014666/jobify_b0ni3x.mov",
+    live: "https://streamable.com/kv92e7",
     github: "https://github.com/borkoloco/jobify",
     builtWith: [
       "SiJavascript",
