@@ -68,8 +68,8 @@ const projects = [
       "Movie Management App created with Django, Python3, Sqlite, and Bootstrap.",
     image:
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1708373149/Captura_de_pantalla_2024-02-19_a_la_s_17.02.52_cnstm2.png",
-    live: "https://borkoloco.pythonanywhere.com/",
-    // live: "https://streamable.com/2dgelk",
+    // live: "https://borkoloco.pythonanywhere.com/",
+    live: "https://streamable.com/2dgelk",
     github: "https://github.com/borkoloco/vidly",
     builtWith: ["SiDjango", "SiSqlite", "SiPython", "SiBootstrap"],
   },
