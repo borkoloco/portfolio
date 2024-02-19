@@ -31,6 +31,14 @@ const jsProjects = [
     image:
       "https://res.cloudinary.com/ddx1ikpma/image/upload/v1704250578/Captura_de_pantalla_2024-01-02_a_la_s_23.44.59_gibiki.png",
   },
+  {
+    key: 5,
+    title: "Vidly App",
+    description:
+      "Movie Management App created with Django, Python3, Sqlite, and Bootstrap.",
+    image:
+      "https://res.cloudinary.com/ddx1ikpma/image/upload/v1708373149/Captura_de_pantalla_2024-02-19_a_la_s_17.02.52_cnstm2.png",
+  },
 ];
 
 export default jsProjects;

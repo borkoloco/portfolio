@@ -20,6 +20,7 @@ import {
   SiSlack,
   SiFirebase,
   SiSequelize,
+  SiSqlite,
 } from "react-icons/si";
 import { BsGithub } from "react-icons/bs";
 import { CgWebsite } from "react-icons/cg";
@@ -53,6 +54,7 @@ const iconMap = {
   SiSlack: <SiSlack />,
   SiFirebase: <SiFirebase />,
   SiSequelize: <SiSequelize />,
+  SiSqlite: <SiSqlite />,
 };
 export default function ProjectCard({
   title,
