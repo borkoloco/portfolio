@@ -9,7 +9,7 @@ export default function Skills() {
       <h2 className={`page-header page-header-${theme}`}>Resume</h2>
       <div className="resume__container">
         <a
-          href="https://res.cloudinary.com/ddx1ikpma/image/upload/v1716273779/resume_pzap0a.png"
+          href="https://res.cloudinary.com/ddx1ikpma/image/upload/v1716274609/resume_qviswa.png"
           className="resume__link"
           rel="noreferrer"
           target="_blank"
